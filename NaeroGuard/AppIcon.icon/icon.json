@@ -1,10 +1,20 @@
 {
-  "fill": "system-light",
-  "groups": [],
-  "supported-platforms": {
-    "circles": [
+  "fill-specializations" : [
+    {
+      "value" : "system-light"
+    },
+    {
+      "appearance" : "dark",
+      "value" : "system-dark"
+    }
+  ],
+  "groups" : [
+
+  ],
+  "supported-platforms" : {
+    "circles" : [
       "watchOS"
     ],
-    "squares": "shared"
+    "squares" : "shared"
   }
 }
