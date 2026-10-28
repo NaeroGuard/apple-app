@@ -1,6 +1,3 @@
-[submodule "core"]
-	path = core
-	url = git@github.com:NaeroGuard/core.git
 [submodule "NaeroGuard/core"]
 	path = NaeroGuard/core
 	url = git@github.com:NaeroGuard/core.git
