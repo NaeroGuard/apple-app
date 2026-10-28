@@ -1,12 +1,11 @@
 {
-  "fill" : "system-light",
-  "groups" : [
-
-  ],
-  "supported-platforms" : {
-    "circles" : [
-      "watchOS"
+  "fill": "system-light",
+  "groups": [],
+  "supported-platforms": {
+    "circles": [
+      "watchOS",
+      "visionOS"
     ],
-    "squares" : "shared"
+    "squares": "shared"
   }
 }
