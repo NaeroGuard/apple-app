@@ -1,12 +1,12 @@
 
-/* Class = "NSMenuItem"; title = "NaeroGuard for Safari"; ObjectID = "1Xt-HY-uBw"; */
-"1Xt-HY-uBw.title" = "NaeroGuard for Safari";
+/* Class = "NSMenuItem"; title = "NaeroGuard"; ObjectID = "1Xt-HY-uBw"; */
+"1Xt-HY-uBw.title" = "NaeroGuard";
 
-/* Class = "NSMenuItem"; title = "Quit NaeroGuard for Safari"; ObjectID = "4sb-4s-VLi"; */
-"4sb-4s-VLi.title" = "Quit NaeroGuard for Safari";
+/* Class = "NSMenuItem"; title = "Quit NaeroGuard"; ObjectID = "4sb-4s-VLi"; */
+"4sb-4s-VLi.title" = "Quit NaeroGuard";
 
-/* Class = "NSMenuItem"; title = "About NaeroGuard for Safari"; ObjectID = "5kV-Vb-QxS"; */
-"5kV-Vb-QxS.title" = "About NaeroGuard for Safari";
+/* Class = "NSMenuItem"; title = "About NaeroGuard"; ObjectID = "5kV-Vb-QxS"; */
+"5kV-Vb-QxS.title" = "About NaeroGuard";
 
 /* Class = "NSMenu"; title = "Main Menu"; ObjectID = "AYu-sK-qS6"; */
 "AYu-sK-qS6.title" = "Main Menu";
@@ -14,23 +14,23 @@
 /* Class = "NSMenu"; title = "Help"; ObjectID = "F2S-fz-NVQ"; */
 "F2S-fz-NVQ.title" = "Help";
 
-/* Class = "NSMenuItem"; title = "NaeroGuard for Safari Help"; ObjectID = "FKE-Sm-Kum"; */
-"FKE-Sm-Kum.title" = "NaeroGuard for Safari Help";
+/* Class = "NSMenuItem"; title = "NaeroGuard Help"; ObjectID = "FKE-Sm-Kum"; */
+"FKE-Sm-Kum.title" = "NaeroGuard Help";
 
-/* Class = "NSWindow"; title = "NaeroGuard for Safari"; ObjectID = "IQv-IB-iLA"; */
-"IQv-IB-iLA.title" = "NaeroGuard for Safari";
+/* Class = "NSWindow"; title = "NaeroGuard"; ObjectID = "IQv-IB-iLA"; */
+"IQv-IB-iLA.title" = "NaeroGuard";
 
 /* Class = "NSMenuItem"; title = "Show All"; ObjectID = "Kd2-mp-pUS"; */
 "Kd2-mp-pUS.title" = "Show All";
 
-/* Class = "NSMenuItem"; title = "Hide NaeroGuard for Safari"; ObjectID = "Olw-nP-bQN"; */
-"Olw-nP-bQN.title" = "Hide NaeroGuard for Safari";
+/* Class = "NSMenuItem"; title = "Hide NaeroGuard"; ObjectID = "Olw-nP-bQN"; */
+"Olw-nP-bQN.title" = "Hide NaeroGuard";
 
 /* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "Vdr-fp-XzO"; */
 "Vdr-fp-XzO.title" = "Hide Others";
 
-/* Class = "NSMenu"; title = "NaeroGuard for Safari"; ObjectID = "uQy-DD-JDr"; */
-"uQy-DD-JDr.title" = "NaeroGuard for Safari";
+/* Class = "NSMenu"; title = "NaeroGuard"; ObjectID = "uQy-DD-JDr"; */
+"uQy-DD-JDr.title" = "NaeroGuard";
 
 /* Class = "NSMenuItem"; title = "Help"; ObjectID = "wpr-3q-Mcd"; */
 "wpr-3q-Mcd.title" = "Help";

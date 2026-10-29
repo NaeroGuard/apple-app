@@ -7,16 +7,15 @@
 
 import WebKit
 
-#if os(iOS)
+#if canImport(UIKit)
 import UIKit
-typealias PlatformViewController = UIViewController
-#elseif os(macOS)
-import Cocoa
-import SafariServices
-typealias PlatformViewController = NSViewController
+public typealias PlatformViewController = UIViewController
+#elseif canImport(AppKit)
+import AppKit
+public typealias PlatformViewController = NSViewController
 #endif
 
-let extensionBundleIdentifier = "app.comboompunktsucht.NaeroGuard-for-Safari.Extension"
+let extensionBundleIdentifier = "app.comboompunktsucht.NaeroGuard.Safari.Extension"
 
 class ViewController: PlatformViewController, WKNavigationDelegate, WKScriptMessageHandler {
 
